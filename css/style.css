@@ -6,7 +6,13 @@
     --dark: #3E0909;
 }
 
-
+/*** Linea de separacion***/
+.post {
+    border-bottom: 1px solid #d90000;
+    padding: 0 0 30px;
+    border-bottom-width: 2.5px;
+    margin: 0 0 45px;
+}
 /*** Spinner ***/
 .spinner {
     width: 40px;
